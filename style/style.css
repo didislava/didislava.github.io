@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css2?family=Play&display=swap);
+
+body
+{
+    background-color: Bisque;
+}
+
+h1
+{
+    font-family:Play;
+    font-size: 85px;
+    text-align:center;
+    color:DarkCyan;
+}
+
+h2
+{
+    border:20px solid SandyBrown ;
+    background-color:rgb(223, 162, 102);
+    padding:35px;
+}
+
+p
+{
+    font-family:Play;
+    font-size: 35px;
+    text-align:center;
+    color:SaddleBrown;
+    
+}
+
+a
+{
+    text-decoration:underline;
+    color:DarkCyan;
+}
